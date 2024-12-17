@@ -1,2 +1,2 @@
-# C-Basics-to-Advanced
+# C++-Basics-to-Advanced
 Projects and course 
